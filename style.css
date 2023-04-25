@@ -11,3 +11,7 @@ body {
   border-bottom: 1px solid #dddddd;
   text-align: center;
 }
+
+.address {
+  text-align: center
+}
