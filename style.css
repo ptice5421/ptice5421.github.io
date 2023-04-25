@@ -1,1 +1,12 @@
+body {
+  background-color: #444444;
+  color: #dddddd;
+  font-family: Montserrat, Verdana, Helvetica;
+  margin: 10% 20%;
+}
 
+.exp-header {
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;
+  bottom-border: 1px solid #dddddd;
+}
