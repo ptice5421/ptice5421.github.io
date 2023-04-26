@@ -1,8 +1,9 @@
 body {
-  background-color: #AFABA2;
-  color: #F7F3EA;
+  background-image: url('https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  color: #6F685F;
   font-family: Montserrat, Verdana, Helvetica;
-  margin: 10% 20%;
+  margin: 10% 10%;
 }
 
 .exp-header {
@@ -14,4 +15,15 @@ body {
 
 .address {
   text-align: center
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
+
+td {
+  padding: 10px;
+  text-align: center;
+  background-color: none;
 }
