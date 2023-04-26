@@ -28,6 +28,7 @@ td {
   background-color: none;
 }
 
-table{
-  text-align: center;
+table {
+  margin-left: auto;
+  margin-right: auto;
 }
